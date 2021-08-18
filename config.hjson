@@ -1,0 +1,6 @@
+
+{
+  token: VIOsSqpw_K-oceAOY5-agzNqDSmtIeRM
+  
+  // There should also be database cluster name, database user name, database user password and database host, but hey, who cares, that's a bot for the Discord Hack Week for now, so we don't need any database
+}
